@@ -45,6 +45,4 @@ To grow sales in 2023, Vrinda Store should focus on targeting **women aged 30-50
 
 ---
 
-## 📂 Project Structure
-* `Vrinda Store Analysis.xlsx`: The main project file containing the raw data and interactive dashboard.
-* `Dashboard_Preview.png`: A high-resolution image of the final report.
+
